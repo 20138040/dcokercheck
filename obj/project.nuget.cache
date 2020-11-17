@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JAJj2UB/P361i4HVkd515TL2444qDeqfTdXG2XHljAGgZuF8MF3413lhA+egJTBM1qoA0dKbHwZHTBeZRiI79w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kdevwans\\Source\\Repos\\dcokercheck\\dcokercheck\\dcokercheck.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kdevwans\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
